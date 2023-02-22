@@ -1,0 +1,24 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "json server for Ecommerce website with furniture user and other data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeepkd13/jsonServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuldeepkd13/jsonServer/issues"
+  },
+  "homepage": "https://github.com/kuldeepkd13/jsonServer#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

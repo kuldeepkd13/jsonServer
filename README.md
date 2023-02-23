@@ -1,2 +1,2 @@
 # jsonServer
-json server for Ecommerce website with furniture user and other data
+json server for rent Ecommerce website with furniture data, appliance data , electronic data , user data and admin data

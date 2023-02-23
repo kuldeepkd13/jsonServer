@@ -2,130 +2,433 @@
     "Furniture" : [
         {
             "id" : "1",
-            "title" :"Edington Rails, Queen/King",
-            "image" : "https://st.hzcdn.com/simgs/e9319ec40b19a66e_8-8723/victorian-panel-beds.jpg",
             "room" : "bedroom",
-            "type" : "beds",
-            "price" : 600,
-            "desc"  : "Edington is an elegant European Traditional influenced collection that evokes the tradition and romantic essence of the countryside with its refined details and elegant styling. Grandly scaled with an abundance of well considered details, it hints an air of antiquity but the styling    is thoroughly fresh and new. Plinth base side rails finish off the bed and connects the headboard and footboard securely."
-        },
-        {
+            "type" : "bed",
+            "img": "https://i.ibb.co/Qv0cryh/dqu1k65a-500x500-1.jpg",
+            "title": "Queen Foam Matress (6*5)",
+            "price": "259",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "2",
-            "title" : "Bandera Upholstered Nailhead Bed, Cream, Queen",
-            "image" : "https://st.hzcdn.com/simgs/0751e7ac079a2271_8-4962/transitional-panel-beds.jpg",
-            "room" :"bedroom",
-            "type" : "beds",
-            "price" : 700,
-            "desc" : "Cream-colored fabric and a double row of antique brass nail head trim combine to create an elegant all-in-one bed. Low-profile footboard and angle cut, block feet lend a modern air. The padded headboard is built with durability in mind, and offers a comfortable spot for seating a book or watching the morning news. Recommended for use with a queen-size box spring and mattress."
-        },
-        {
+            "room" : "bedroom",
+            "type" : "bed",
+            "img": "https://i.ibb.co/fkxdT64/ikl0fdjc-500x500-1.jpg",
+            "title": "Napster Metal Single Bed (6*3)",
+            "price": "249",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "3",
-            "title" : "Baxton Studio Willis Light Grey Fabric Upholstered Full Size Bed",
-            "image" : "https://st.hzcdn.com/simgs/d8a12a9200b5c55e_8-7553/contemporary-panel-beds.jpg",
-            "room" :"bedroom",
-            "type" : "beds",
-            "price" : 800,
-            "desc" : "The elegant lines of the headboard on this bed convey perfectly the modern lines and styles that are demanded of a contemporary piece of furniture. Upholstered in cool chic light grey fabric to add calmness and tranquility to your bedroom, the Willis features cut-corner headboard with button-tufting design in diamond shape. The edge piping's outline the padded headboard in an elegant way. Constructed of solid rubber wood frame and engineered wood, the low footboard style of the Willis provides an airy feel to a small room setting"
-        },
-        {
+            "room" : "bedroom",
+            "type" : "bed",
+            "img": "https://i.ibb.co/6FKBBj0/j0xbbocy-500x500.jpg",
+            "title": "Napster Metal Queen Bed (6*5)",
+            "price": "319",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "4",
-            "title" : "Willis Light Beige Fabric Upholstered Full Size Bed, Light Gray, Full",
-            "image" : "https://st.hzcdn.com/simgs/0be1cc3e0fe35460_8-5831/transitional-panel-beds.jpg",
-            "room" :"bedroom",
-            "type" : "beds",
-            "price" : 899,
-            "desc" : "The elegant lines of the headboard on this bed convey perfectly the modern lines and styles that are demanded of a contemporary piece of furniture. Upholstered in cool chic light Gray fabric to add calmness and tranquility to your bedroom, the Willis features cut-corner headboard with button-tufting design in diamond shape. "
-        },
-        {
+            "room" : "bedroom",
+            "type" : "bed",
+            "img": "https://i.ibb.co/HdKXHTj/7i306dfx-500x500.jpg",
+            "title": "Aurora Wooden Queen Bed(6*5)",
+            "price": "539",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "5",
-            "title" : "Willis Light Beige Fabric Upholstered Full Size Bed, Light Gray, Full",
-            "image" : "https://st.hzcdn.com/simgs/0be1cc3e0fe35460_8-5831/transitional-panel-beds.jpg",
-            "room" :"bedroom",
-            "type" : "beds",
-            "price" : 700,
-            "desc" : "Blue Velvet Nailhead Transitional Upholstered Bed With Solid Wood Legs (Headboard, Footboard, Rails, Slats). Between sleeping, getting ready in the morning, watching Saturday morning cartoons in bed with your little ones, and more, we spend a lot of time in our bedrooms, so make sure yours has a style that fits you. If you're ready to give your bedroom a refresh, start by adding this elegant panel bed."
-        },
-        {
+            "room" : "bedroom",
+            "type" : "bed",
+            "img": "https://i.ibb.co/bNKGKXh/pemzyedy-500x500.jpg",
+            "title": "Single LX Ortho Pocket Spring Mattress (6.6*3)",
+            "price": "449",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "6",
-            "title" : "Kaiser Vintage Leather Box Bed, Graphite, King",
-            "image" : "https://st.hzcdn.com/simgs/bbd14ed500ccbfcd_8-1432/transitional-panel-beds.jpg",
-            "room" :"bedroom",
-            "type" : "beds",
-            "price" : 999,
-            "desc" : "This modern shelter bed possesses smooth edges and clean geometric lines that magnify its calculated simplicity. Enhanced with a double row of nailhead trim, and a fitted waterfall skirt."
-        },
-        {
+            "room" : "bedroom",
+            "type" : "bed",
+            "img": "https://i.ibb.co/6DSX76p/u5j0j47b-500x500.jpg",
+            "title": "King Ortho Pocket Spring Mattress (6.6*6)",
+            "price": "729",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "7",
-            "title" : "Hawthorne Collections Sofa in Dark Gray",
-            "image" : "https://st.hzcdn.com/simgs/d1e1a5520be331df_8-0460/transitional-sofas.jpg",
-            "room" :"livingroom",
+            "room" : "livingroom",
             "type" : "sofa",
-            "price" : 699,
-            "desc" : "A stunningly solid sofa, loveseat and chair easy-to-assemble and hard to forget!"
-        },
-        {
+            "img": "https://i.ibb.co/ssZb2yY/xn610pga-500x500.jpg",
+            "title": "Felix 1-Seater Sofa",
+            "price": "379",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "8",
-            "title" : "Modern Bronze Velvet Curved Sofa Gold Metal Toss Pillow Included, Bronze, Medium",
-            "image" : "https://st.hzcdn.com/simgs/99e1e294006bfa92_8-4126/midcentury-sofas.jpg",
-            "room" :"livingroom",
+            "room" : "livingroom",
             "type" : "sofa",
-            "price" : 799,
-            "desc" : "Deck out your living and lounge spaces in a novelty flair with this stunning mid century sofa. Featuring crescent shape and curved lines, this sofa enjoys a flexible appeal with character and individuality. Designed with elastic foam-filled cushions and thickly padded backrest, it provides optimum seating comfort. Otherwise, it includes toss pillows that add extra ambiance and enhance the delightful accent. "
-        },
-        {
+            "img": "https://i.ibb.co/kxjvNFb/is70bee5-500x500.jpg",
+            "title": "Oliver 3-Seater Sofa (Blue)",
+            "price": "559",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "9",
-            "title" : "Nicole Miller Althea Velvet Channel Tufted Nailhead Trim Sofa, Slate Blue/Chrome",
-            "image" : "https://st.hzcdn.com/simgs/0d21b1ad0e9f6c48_8-8655/midcentury-sofas.jpg",
-            "room" :"livingroom",
+            "room" : "livingroom",
             "type" : "sofa",
-            "price" : 899,
-            "desc" : "This sofa is a must-have addition to your favorite aesthetic. Crafted with line stitch tufts this sofa brings class and lounging comfort to any room. Its espresso finish tapered metal tip legs and nailhead trim add a refined touch to your decor."
-        },
-        {
+            "img": "https://i.ibb.co/gzzZwfv/0qiq5edb-500x500.jpg",
+            "title": "Saddle Shoe Rack Large",
+            "price": "189",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "10",
-            "title" : "Phoenix Frame-Barbados Finish-Suede Peat Mattress",
-            "image" : "https://st.hzcdn.com/simgs/0441e7f402a9d83b_8-0850/transitional-futons.jpg",
-            "room" :"livingroom",
+            "room" : "livingroom",
             "type" : "sofa",
-            "price" : 899,
-            "desc" : "The futon is a classic hardwood frame with tray style arms. This unique and versatile full size futon sofa easily converts to a Bed. "
-        },
-        {
+            "img": "https://i.ibb.co/dQ40d5g/6jks7lk8-500x500.jpg",
+            "title": "Felix 3-Seater Sofa (Black)",
+            "price": "789",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "11",
-            "title" : "Phoenix Frame-Barbados Finish-Suede Chocolate Mattress",
-            "image" : "https://st.hzcdn.com/simgs/cfa1812602a9d844_8-2837/transitional-futons.jpg",
-            "room" :"livingroom",
+            "room" : "livingroom",
             "type" : "sofa",
-            "price" : 899,
-            "desc" : "The futon is a classic hardwood frame with tray style arms. This unique and versatile full size futon sofa easily converts to a Bed."
-        },
-        {
+            "img": "https://i.ibb.co/NsKN4h2/lfg6bk2a-500x500.jpg",
+            "title": "Rex 3-Seater Sofa",
+            "price": "659",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "12",
-            "title" : "Monterey Frame/Queen/Espresso Finish/Suede Black Mattress",
-            "image" : "https://st.hzcdn.com/simgs/f8d1f52102a9d83d_8-2541/craftsman-futons.jpg",
-            "room" :"livingroom",
+            "room" : "livingroom",
             "type" : "sofa",
-            "price" : 899,
-            "desc" : "The futon is a classic hardwood frame with mission style arms. This unique and versatile Queen size futon sofa easily converts to a Bed."
-        },
-        {
+            "img": "https://i.ibb.co/kxb6h2J/tqddqxw9-500x500.jpg",
+            "title": "Rex 1-Seater Sofa (Black)",
+            "price": "319",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "13",
-            "title" : "Russell Sectional With Pillows and Coffeeed Legs, Ivory",
-            "image" : "https://st.hzcdn.com/simgs/69f1475d0b7b0a57_8-7953/transitional-sectional-sofas.jpg",
-            "room" :"livingroom",
+            "room" : "livingroom",
             "type" : "sofa",
-            "price" : 999,
-            "desc" : "Invite comfort into your home with this reversible chaise sectional sofa. Enjoy the plush luxury of gusseted back cushions along with innerspring coil seat cushions wrapped in foam for extended support and maximum relaxation. Upholstered in durable 100% polyester fabric for easy cleaning and maintenance for years to come. The handy reversible chaise requires a simple adjustment for a left or right configuration. Create the cozy living room of your dreams with the Avenue Six Russell sectional."
-        },
-        {
+            "img": "https://i.ibb.co/HTQsy9J/sc4mwkso-500x500.jpg",
+            "title": "Chesire Fbric Sofa Cum Bed (Green)",
+            "price": "1049",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
             "id" : "14",
-            "title" : "Amira Beige Linen Fabric Reversible Sectional Sofa with USB Storage Console",
-            "image" : "https://st.hzcdn.com/simgs/105153ba0faf4947_8-4953/contemporary-sectional-sofas.jpg",
-            "room" :"livingroom",
+            "room" : "livingroom",
             "type" : "sofa",
-            "price" : 899,
-            "desc" : "Comfort, Style, and Quality! These are the important features for the Amira Collection. This beautiful modular sofa sectional with USB console with cupholders, ottoman, and six matching accent pillows will fit into any living room and impress your guests! The comfortable beige linen fabric with matching accent pillows will light up your living room with the most trendiest of looks. Perfect for apartments, condo, loft, and single family home, you will be able to welcome multiple guests comfortably where everyone is able to enjoy entertainment together."
-        }
+            "img": "https://i.ibb.co/WFSk67G/5jxsekke-500x500.jpg",
+            "title": "Velma 3-Seater Sofa (Teal)",
+            "price": "489",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "15",
+            "room" : "livingroom",
+            "type" : "sofa",
+            "img": "https://i.ibb.co/YhHQS2d/cl07o74j-500x500.jpg",
+            "title": "Robin Futon Red Large",
+            "price": "489",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "16",
+            "room" : "livingroom",
+            "type" : "sofa",
+            "img": "https://p.rmjo.in/productSquare/9lx10mln-250x250.jpg",
+            "title": "Parker Fabric Sofa Cum Bed",
+            "price": "989",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "17",
+            "room" : "livingroom",
+            "type" : "sofa",
+            "img": "https://p.rmjo.in/productSquare/s2djad5r-250x250.jpg",
+            "title": "Oliver 3-Seater Sofa (White)",
+            "price": "529",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "18",
+            "room" : "livingroom",
+            "type" : "sofa",
+            "img": "https://p.rmjo.in/productSquare/40zhzwlu-250x250.jpg",
+            "title": "Leo 3-Seater Fabric Sofa (Wine Grey)",
+            "price": "789",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "19",
+            "room" : "kitchen",
+            "type" : "dinnertable",
+            "img": "https://i.ibb.co/StDZZRd/jqccn9bx-500x500.jpg",
+            "title": "Paise 4-Seater Dining Table & Chairs",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "20",
+            "room" : "kitchen",
+            "type" : "dinnertable",
+            "img": "https://i.ibb.co/Tg78FFK/0ahsljnf-500x500.jpg",
+            "title": "Heston 4-Seater Dining Table & Chairs",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "21",
+            "room" : "kitchen",
+            "type" : "dinnertable",
+            "img": "https://i.ibb.co/XScpwYJ/jagaq6ov-500x500.jpg",
+            "title": "Tyler 6-Seater Dining Table & Chairs",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "22",
+            "room" : "kitchen",
+            "type" : "dinnertable",
+            "img": "https://i.ibb.co/j44mgb2/bhpxawks-500x500.jpg",
+            "title": "Tyler 4-Seater Dining Table & Chairs",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "23",
+            "room" : "kitchen",
+            "type" : "dinnertable",
+            "img": "https://i.ibb.co/7bcMYkq/jotwg0bl-500x500.jpg",
+            "title": "Alton 4-Seater Dining Table & Chairs",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "24",
+            "room" : "kitchen",
+            "type" : "dinnertable",
+            "img": "https://i.ibb.co/zJmB1L3/2qxe35gr-500x500-1.jpg",
+            "title": "Heston 6-Seater Dining Table & Chairs",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "25",
+            "room" : "baby",
+            "type" : "table",
+            "img": "https://i.ibb.co/gDKDgS9/s0yo6ill-500x500.jpg",
+            "title": "IKEA Mammut Table and Chair Set",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "26",
+            "room" : "baby",
+            "type" : "table",
+            "img": "https://i.ibb.co/gMLvGy2/yvof1k0h-500x500.jpg",
+            "title": "Antilop Highchair with Tray",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "27",
+            "room" : "baby",
+            "type" : "table",
+            "img": "https://i.ibb.co/mv1ZFLk/jxb4nxam-500x500.jpg",
+            "title": "Baby Cat Crib With Mattress",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "28",
+            "room" : "baby",
+            "type" : "table",
+            "img": "https://i.ibb.co/0n3Vq2n/9y16aj37-500x500.jpg",
+            "title": "Solgul Baby Cat",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "29",
+            "room" : "baby",
+            "type" : "table",
+            "img": "https://i.ibb.co/RPh3Jz6/ne1morv1-500x500.jpg",
+            "title": "Mala Easel Board by IKEA",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "30",
+            "room" : "baby",
+            "type" : "table",
+            "img": "https://i.ibb.co/gMLvGy2/yvof1k0h-500x500.jpg",
+            "title": "Antilop Highchair with Tray",
+            "price": "799",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "31",
+            "room" : "Wfh",
+            "type" : "chair",
+            "img": "https://i.ibb.co/kMvrHQD/em6h6xgy-250x250.jpg",
+            "title": "Stuart Study Table",
+            "price": "299",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "32",
+            "room" : "Wfh",
+            "type" : "chair",
+            "img": "https://i.ibb.co/9YXP6yv/ggtbqrqq-250x250.jpg",
+            "title": "Morris Office Chair",
+            "price": "199",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "33",
+            "room" : "Wfh",
+            "type" : "chair",
+            "img": "https://i.ibb.co/t4kmb9X/9kxg1c3a-250x250.jpg",
+            "title": "Exec Workdtation",
+            "price": "129",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "34",
+            "room" : "Wfh",
+            "type" : "chair",
+            "img": "https://i.ibb.co/FsnnQdv/pzts2dn4-250x250.jpg",
+            "title": "Rowling Bookshelf Medium",
+            "price": "109",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "35",
+            "room" : "Wfh",
+            "type" : "chair",
+            "img": "https://i.ibb.co/8jnYVLR/1eoam6o5-250x250-1.jpg",
+            "title": "Paise Study Table",
+            "price": "179",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "36",
+            "room" : "Wfh",
+            "type" : "chair",
+            "img": "https://p.rmjo.in/productSquare/nsdfprsz-250x250.jpg",
+            "title": "Rowling Bookshelf Large",
+            "price": "369",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "37",
+            "room" : "Wfh",
+            "type" : "chair",
+            "img": "https://p.rmjo.in/productSquare/qu9y4szh-250x250.jpg",
+            "title": "Alex Office Chair",
+            "price": "259",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "38",
+            "room" : "Wfh",
+            "type" : "chair",
+            "img": "https://p.rmjo.in/productSquare/ewmorq0i-250x250.jpg",
+            "title": "Adde Grey Chair by Ikea1",
+            "price": "59",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         },
+         {
+            "id" : "39",
+            "room" : "Wfh",
+            "type" : "chair",
+            "img": "https://p.rmjo.in/productSquare/lu0w6lpn-250x250.jpg",
+            "title": "Hgo Office Chair",
+            "price": "259",
+            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
+            "size": "16inL x 14inB x 30inH",
+            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
+         }
     ],
     "Electronic": [
         {

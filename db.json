@@ -136,17 +136,6 @@
             "id" : "13",
             "room" : "livingroom",
             "type" : "sofa",
-            "img": "https://i.ibb.co/HTQsy9J/sc4mwkso-500x500.jpg",
-            "title": "Chesire Fbric Sofa Cum Bed (Green)",
-            "price": "1049",
-            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
-            "size": "16inL x 14inB x 30inH",
-            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
-         },
-         {
-            "id" : "14",
-            "room" : "livingroom",
-            "type" : "sofa",
             "img": "https://i.ibb.co/WFSk67G/5jxsekke-500x500.jpg",
             "title": "Velma 3-Seater Sofa (Teal)",
             "price": "489",
@@ -155,7 +144,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "15",
+            "id" : "14",
             "room" : "livingroom",
             "type" : "sofa",
             "img": "https://i.ibb.co/YhHQS2d/cl07o74j-500x500.jpg",
@@ -166,7 +155,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "16",
+            "id" : "15",
             "room" : "livingroom",
             "type" : "sofa",
             "img": "https://p.rmjo.in/productSquare/9lx10mln-250x250.jpg",
@@ -177,7 +166,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "17",
+            "id" : "16",
             "room" : "livingroom",
             "type" : "sofa",
             "img": "https://p.rmjo.in/productSquare/s2djad5r-250x250.jpg",
@@ -188,7 +177,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "18",
+            "id" : "17",
             "room" : "livingroom",
             "type" : "sofa",
             "img": "https://p.rmjo.in/productSquare/40zhzwlu-250x250.jpg",
@@ -199,7 +188,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "19",
+            "id" : "18",
             "room" : "kitchen",
             "type" : "dinnertable",
             "img": "https://i.ibb.co/StDZZRd/jqccn9bx-500x500.jpg",
@@ -210,7 +199,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "20",
+            "id" : "19",
             "room" : "kitchen",
             "type" : "dinnertable",
             "img": "https://i.ibb.co/Tg78FFK/0ahsljnf-500x500.jpg",
@@ -221,7 +210,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "21",
+            "id" : "20",
             "room" : "kitchen",
             "type" : "dinnertable",
             "img": "https://i.ibb.co/XScpwYJ/jagaq6ov-500x500.jpg",
@@ -232,7 +221,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "22",
+            "id" : "21",
             "room" : "kitchen",
             "type" : "dinnertable",
             "img": "https://i.ibb.co/j44mgb2/bhpxawks-500x500.jpg",
@@ -243,7 +232,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "23",
+            "id" : "22",
             "room" : "kitchen",
             "type" : "dinnertable",
             "img": "https://i.ibb.co/7bcMYkq/jotwg0bl-500x500.jpg",
@@ -254,7 +243,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "24",
+            "id" : "23",
             "room" : "kitchen",
             "type" : "dinnertable",
             "img": "https://i.ibb.co/zJmB1L3/2qxe35gr-500x500-1.jpg",
@@ -265,7 +254,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "25",
+            "id" : "24",
             "room" : "baby",
             "type" : "table",
             "img": "https://i.ibb.co/gDKDgS9/s0yo6ill-500x500.jpg",
@@ -276,7 +265,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "26",
+            "id" : "25",
             "room" : "baby",
             "type" : "table",
             "img": "https://i.ibb.co/gMLvGy2/yvof1k0h-500x500.jpg",
@@ -287,7 +276,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "27",
+            "id" : "26",
             "room" : "baby",
             "type" : "table",
             "img": "https://i.ibb.co/mv1ZFLk/jxb4nxam-500x500.jpg",
@@ -298,7 +287,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "28",
+            "id" : "27",
             "room" : "baby",
             "type" : "table",
             "img": "https://i.ibb.co/0n3Vq2n/9y16aj37-500x500.jpg",
@@ -309,7 +298,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "29",
+            "id" : "28",
             "room" : "baby",
             "type" : "table",
             "img": "https://i.ibb.co/RPh3Jz6/ne1morv1-500x500.jpg",
@@ -320,7 +309,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "30",
+            "id" : "29",
             "room" : "baby",
             "type" : "table",
             "img": "https://i.ibb.co/gMLvGy2/yvof1k0h-500x500.jpg",
@@ -331,7 +320,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "31",
+            "id" : "30",
             "room" : "Wfh",
             "type" : "chair",
             "img": "https://i.ibb.co/kMvrHQD/em6h6xgy-250x250.jpg",
@@ -342,7 +331,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "32",
+            "id" : "31",
             "room" : "Wfh",
             "type" : "chair",
             "img": "https://i.ibb.co/9YXP6yv/ggtbqrqq-250x250.jpg",
@@ -353,7 +342,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "33",
+            "id" : "32",
             "room" : "Wfh",
             "type" : "chair",
             "img": "https://i.ibb.co/t4kmb9X/9kxg1c3a-250x250.jpg",
@@ -364,7 +353,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "34",
+            "id" : "33",
             "room" : "Wfh",
             "type" : "chair",
             "img": "https://i.ibb.co/FsnnQdv/pzts2dn4-250x250.jpg",
@@ -375,7 +364,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "35",
+            "id" : "34",
             "room" : "Wfh",
             "type" : "chair",
             "img": "https://i.ibb.co/8jnYVLR/1eoam6o5-250x250-1.jpg",
@@ -386,7 +375,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "36",
+            "id" : "35",
             "room" : "Wfh",
             "type" : "chair",
             "img": "https://p.rmjo.in/productSquare/nsdfprsz-250x250.jpg",
@@ -397,7 +386,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "37",
+            "id" : "36",
             "room" : "Wfh",
             "type" : "chair",
             "img": "https://p.rmjo.in/productSquare/qu9y4szh-250x250.jpg",
@@ -408,18 +397,7 @@
             "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
          },
          {
-            "id" : "38",
-            "room" : "Wfh",
-            "type" : "chair",
-            "img": "https://p.rmjo.in/productSquare/ewmorq0i-250x250.jpg",
-            "title": "Adde Grey Chair by Ikea1",
-            "price": "59",
-            "desc": "Perfectly designed to keep constant flow of clean air in your home, our air purifier removes allergens, pollen, odour & dust. Enjoy the breath of fresh air and breathe the difference. This purifier is perfect for a 10 ft by 12 ft room",
-            "size": "16inL x 14inB x 30inH",
-            "features": "Capacity/Size : 400 Sq.Ft  Brand: Whirlpool/Philips/Haier  Air Quality Indicator"
-         },
-         {
-            "id" : "39",
+            "id" : "37",
             "room" : "Wfh",
             "type" : "chair",
             "img": "https://p.rmjo.in/productSquare/lu0w6lpn-250x250.jpg",
@@ -466,6 +444,30 @@
             "github" : "https://github.com/kuldeepkd13",
             "password" : "kuldeep",
             "id" : "1"
-        }
+          },
+          {
+           "username" : "Sakshi Kumari",
+           "email" :"sakshi10393@gmail.com",
+           "linkdin" : "www.linkedin.com/in/sakshi-kumari-b94362252",
+           "github" : "https://github.com/sakshi10393",
+           "password" : "Sakshi",
+           "id" : "2"
+           },
+          {
+           "username" : "Sharun N D",
+           "email" :"sharunnd11@gmail.com",
+           "linkdin" : "https://www.linkedin.com/in/sharun-n-d-8351191b3",
+           "github" : "https://github.com/sharunnd",
+          "password" : "kuldeep",
+           "id" : "3"
+          },
+          {
+            "username" : "Kuldeep Kumar Mahto",
+            "email" :"kuldeepkumar3599@gmail.com",
+            "linkdin" : "https://www.linkedin.com",
+            "github" : "https://github.com/kuldeepkr7529",
+            "password" : "kuldeep",
+            "id" : "4"
+         }
     ]
 }
